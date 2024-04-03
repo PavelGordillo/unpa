@@ -1,0 +1,53 @@
+---
+title: "Tp_cv"
+author: "Pablo Gordillo"
+date: "2024-04-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curriculum Vitae
+
+![Pavel](Pavel_Gordillo.jpg){width="300"}
+
+### Datos personales
+
+-   Lugar de Nacimiento: CALETA OLIVIA
+-   Fecha de Nacimiento: 09/12/1976
+-   Nacionalidad: ARGENTINO
+-   Estado Civil: CASADO
+-   DNI Nº: 25.667.705
+-   Domicilio: CAROL ENGLISH 1815, Caleta Olivia, Santa Cruz
+
+### Formación académica
+
+|   Año   |         Título          |          Institución           |     Lugar     |
+|:---------------:|:---------------:|:------------------:|:---------------:|
+| 1990-94 |    Perito Mercantil     |    Colegio San José Obrero     | Caleta Olivia |
+| 1995-01 | Lic. Ciencias Políticas | Universidad Católica Argentina |     CABA      |
+| 2016-24 |        Abogacía         |           UCA Salta            | Caleta Olivia |
+
+### Posgrados
+
+|   Año   |                                                               Posgrado                                                                | Institución |     Lugar     |
+|:---------------:|:---------------:|:------------------:|:---------------:|
+| 2023-24 |                 **Programa de actualización en Derecho de los hidrocarburos, energía y sostenibilidad. 3° edición.**                  |     UBA     |     CABA      |
+| 2023-24 | **Diplomatura de ExtensiónUniversitaria en Gestión y Tecnologías para el DesarrolloConvencional y No Convencional de Hidrocarburos**. | UNPA - UACO | Caleta Olivia |
+| 2004-05 |                                              Información Jurídica y Técnica Legislativa                                               |     UCA     |     CABA      |
+
+### Experiencia Laboral
+
+|   Año   |      Cargo      | Institución                     |          Lugar           |
+|:---------------:|:---------------:|:--------------------|:---------------:|
+|  2024   | Gerente General | Servicios Públicos S.E          |        Santa Cruz        |
+| 2019-23 |      Vocal      | Instituto de Energía            |        Santa Cruz        |
+| 2016-19 |   Subgerente    | Instituto de Energía            |        Santa Cruz        |
+| 2013-15 |   Presidente    | Fundación Agencia de Desarrollo | Caleta Oliva, Santa Cruz |
+
+### Contacto
+
+-   [pavel.arriagada\@gmail.com](mailto:pavel.arriagada@gmail.com){.email}
+-   Celular ***297 4111488***
